@@ -1,4 +1,5 @@
 hello
 how are ya
-why not work
-damn
+
+something strange
+ok 
